@@ -12,7 +12,7 @@ import javax.xml.xpath.XPathFactory;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
-//public static final String xmlFilePath = "C:\\Users\\Lenovo\\Desktop\\inventory.xml";
+
 
 public class XPathTest
 {
